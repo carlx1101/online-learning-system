@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Users\\Carl\\Downloads\\Web Application-ReadLib\\APU"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Users\\Carl\\Downloads\\flexy-bootstrap-lite"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "SDP"
+	}
+}
